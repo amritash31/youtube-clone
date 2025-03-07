@@ -1,0 +1,81 @@
+p{
+  margin-top:0px;
+  margin-bottom:0px;
+ }
+
+ .thumbnail
+ {
+   width:100%;
+   
+  
+ }
+  
+ 
+ .search-bar::placeholder{
+  font-family:Roboto,Arial;
+   font-size: 16px;
+   padding-left: 15px;
+
+ }
+
+ .box{
+   width: 300px;
+  
+    
+  
+ 
+ }
+ .dp{
+   
+   width:50px;
+   vertical-align: top;
+  
+
+ }
+.info{
+ width: 180px;
+ 
+ 
+
+}
+ 
+ .infogrid{
+   display:grid;
+   grid-template-columns: 50px 1fr;
+  
+ }
+ .photo{
+   width:40px;
+   border-radius:50px ;
+  
+
+ }
+ .content{
+   margin-top: 0px;
+   font-size:15px;
+   font-weight:500;
+   line-height:20px;
+   margin-bottom:12px ;
+   font-family: arial;
+   
+ }
+
+ 
+
+ .name{
+   color:grey;
+  
+
+ }
+ .stats{
+
+   color: grey;
+ }
+ .gridprop{
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   column-gap: 10px;
+   row-gap: 40px;
+
+ }
+ 
